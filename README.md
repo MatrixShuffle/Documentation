@@ -1,4 +1,4 @@
 # Navigation
-* [User interface](https://github.com/MatrixShuffle/Documentation/tree/main/Docs/UserInterface.md)
+* [User interface](https://github.com/MatrixShuffle/Documentation/blob/main/Docs/UserInterface.md)
 * [Server constructor](#)
 * [Settings](#)
